@@ -1,0 +1,36 @@
+{
+    "info": {
+        "url_png_icon_64x64": "https://github.com/,
+        "url_png_logo": "https://github.com/egorman81/,
+        "location": "Germany",
+        "social": {
+            "twitter_handle": "@Ada_Piggy",
+            "telegram_handle": "",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": ""
+        },
+        "company": {
+            "name": "Eddie",
+            "addr": "",
+            "city": "Glasgow",
+            "country": "Scotland",
+            "company_id": "",
+            "vat_id": ""
+        },
+        "about": {
+            "me": "Single pool operater.",
+            "server": "",
+            "company": ""
+        },
+    "my-pool-ids": {
+        "0": "2595f0a5ff4145f3d6ee09e81c2488bdfe2079004eda635a6dce1515",
+        "1": ""
+      }
+    }
+}
+
+
+
