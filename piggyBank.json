@@ -1,6 +1,7 @@
 {
 "name": "Piggy Bank",
-"description": "Piggy Bank ADA Pool",
+"description": "Piggy Bank ADA Pool based in Glasgow, Scotland. We donate 25% of our pool fees to GAVI vaccine alliance.",
 "ticker": "PIGGY",
-"homepage": "http://piggy.trendingpools.com"
+"homepage": "http://piggy.trendingpools.com",
+"extended": "http://piggy.trendingpools.com/extended.json"
 }
